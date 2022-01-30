@@ -1,0 +1,21 @@
+.nav-link:hover{
+    cursor: pointer;
+
+}
+#home:hover{
+    color:crimson;
+    font-weight: bold;
+    
+}
+body{
+    background-image: url(background.jpg);
+}
+.formulaire{
+    background-color: darkgrey;
+    padding-left: 550px;   
+}
+form input{
+    border-radius: 10px;
+    border-width: 1px;
+}
+

@@ -1,0 +1,24 @@
+.nav-link:hover{
+    cursor: pointer;
+
+}
+#home:hover{
+    color:crimson;
+    font-weight: bold;
+    
+}
+body{
+    background-image: url(background.jpg);
+}
+.limages{
+    margin-top: 100px;
+}
+.parag1{
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+.parag2{
+    background-color: darkgrey;
+    border-radius: 10px;
+}
+
